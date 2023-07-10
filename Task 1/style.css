@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+a {
+    color: darkblue;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.footnote {
+    font-size: smaller;
+}
