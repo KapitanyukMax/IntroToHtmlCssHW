@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 12pt;
+}
+
+.math-container {
+    margin: 20px;
+}
+
+samp {
+    padding: 5px 10px;
+    background-color: lightcoral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+var {
+    color: darkred;
+    font-weight: bold;
+}
